@@ -117,8 +117,8 @@ if (isset($_POST['submit'])) {
                 <thead>
                   <tr>
                     <th scope='col'>Year <br><br></th>
-                    <th scope='col'>Male actor (age)<br><i class='fw-lighter'>Movie name</i> </th>
                     <th scope='col'>Female actor (age)<br><i class='fw-lighter'>Movie name</i> </th>
+                    <th scope='col'>Male actor (age)<br><i class='fw-lighter'>Movie name</i> </th>
                   </tr>
                 </thead>
                 <tbody>";
